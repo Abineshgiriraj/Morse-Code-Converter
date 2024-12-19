@@ -73,7 +73,4 @@ def main():
         decryptor()
     else:
         print("Please choose a valid input.")
-
-
-if __name__ == '__main__':
-    main()
+main()
